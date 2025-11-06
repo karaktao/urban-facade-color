@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# Model checkpoints
+*.pth
+*.ckpt
+
+# Output folders
+images_result/
+images_overlay/
+pic_color/
