@@ -13,7 +13,7 @@ env/
 .vscode/
 
 # Model checkpoints
-*.pth
+# *.pth
 *.ckpt
 
 # Output folders
