@@ -8,3 +8,6 @@ opencv-python
 scikit-learn
 pillow
 gradio
+fastapi
+uvicorn
+python-multipart
